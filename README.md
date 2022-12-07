@@ -1,5 +1,5 @@
 # Assalamu Alaikum!
 # Assignment No. 2-Javascript
-$Name
+$ Name
 # Md Hossain
 # Class Roll: 12
