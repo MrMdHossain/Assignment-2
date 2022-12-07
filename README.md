@@ -1,6 +1,5 @@
-# Assignment-2
+# Assalamu Alaikum!
 # Assignment No. 2-Javascript
 # Task No. 2
-# Assalamu Alaikum!
 # Md Hossain
 # Class Roll: 12
